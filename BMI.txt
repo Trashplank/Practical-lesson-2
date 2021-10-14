@@ -1,0 +1,4 @@
+a=input('Введите свой рост ')
+b=input('Введите свой вес ')
+BMI=int(a)/(int(b)*int(b))
+print("BMI",str(BMI))
